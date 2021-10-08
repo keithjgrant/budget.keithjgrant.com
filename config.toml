@@ -1,4 +1,9 @@
 baseURL = "https://budget.keithjgrant.com/"
 languageCode = "en-us"
-title = "Budget"
+title = "Your Budget"
 theme = "book"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

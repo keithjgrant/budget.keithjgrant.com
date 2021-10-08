@@ -3,39 +3,46 @@ title: Introduction
 type: docs
 ---
 
-# Introduction
+# A budgeting spreadsheet
+
+Yes, a spreadsheet.
+That's all this is about.
+But hear me out.
+
+To understand and stay on top of your spending, you don't need a fancy app.
+You don't need to give some website access to your bank statements.
+You just need to be aware of how much money you have, where it is promised, and how much is available do fun stuff.
+
+That's just numbers, and spreadsheets are good at numbers.
+And it's free.
+
+## Why am I offering this?
+
+Because I already built it for myself, and there's no harm in letting you make a copy you can use. :)
+
+I've mentioned this system to friends in the past, and several have shown interest.
+Unfortunately, the first version of the spreadsheet was highly tailored to my specific budget.
+The second version was more general purpose, but had some rough edges when it came to certain tasks like reimbursements or tracking an expense from one month that doesn't clear until the next month.
+I knew how to work around these, but I would have felt odd handing it off this way to friends.
+
+So I've re-worked my spreadsheet again, and this time, I'm confident it can do just about everything anybody needs in a home budget.
+
+## How it works
 
 {{< columns >}}
-## Astris ipse furtiva
+### Daily
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
-
+Every time you make a purchase, record it in the spreadsheet and assign it to one of your budget categories.
+I've kept this page slim and mobile-friendly, so it's easy to update from any smartphone.
 <--->
+### Weekly
 
-## Suis quot vota
+Periodically, update the spreadsheet with your current bank account and credit card balances.
+Check off all expenses that have cleared and double-check you haven't missed anything.
+The spreadsheet will help you ensure what you spent and what you recorded balance out.
+<--->
+### Monthly
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+At the end of each month, make a fresh copy of the spreadsheet template.
+Copy over balances from the previous month, and allocate new budget amounts for the new month.
 {{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
