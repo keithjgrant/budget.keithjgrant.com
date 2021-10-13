@@ -1,6 +1,6 @@
 baseURL = "https://budget.keithjgrant.com/"
 languageCode = "en-us"
-title = "Your Budget"
+title = "The Ultimate Budget Spreadsheet"
 theme = "book"
 
 [markup]

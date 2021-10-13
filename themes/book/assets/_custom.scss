@@ -11,6 +11,11 @@
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
 }
 
+.markdown .action-button:visited,
+.action-button:visited {
+  color: white;
+}
+
 .markdown .action-button:hover,
 .action-button:hover {
   text-decoration: none;
