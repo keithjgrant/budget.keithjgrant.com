@@ -1,0 +1,18 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+.action-button {
+  display: inline-block;
+  padding: .5rem 1rem;
+  background-color: #05b;
+  color: white;
+  border-radius: .3em;
+  text-transform: uppercase;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.markdown .action-button:hover,
+.action-button:hover {
+  text-decoration: none;
+  background-color: #04a;
+}
