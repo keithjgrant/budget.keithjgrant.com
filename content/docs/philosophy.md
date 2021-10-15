@@ -20,10 +20,10 @@ It's on Google Sheets, so I can access it online and share access with my wife.
 
 Here are the key points:
 
-1. Allocate your available money to budget categories (bills, groceries, etc).
-2. It's ok if things don't go according to plan; adjust the budget mid-month how you need.
-3. Live off last month's income, so you're not up the creek if your paycheck falls on a weird day of the month.
-4. Set aside money ahead of time for vacations, car repair, or holiday spending — this system is designed to handle those irregular, big expenses.
+1. Allocate your available money to **budget categories** (bills, groceries, etc).
+2. It's ok if things don't go according to plan; **adjust the budget** mid-month how you need.
+3. Live off **last month's income**, so you're not thrown off if your paycheck falls on a weird day of the month.
+4. **Set aside money** ahead of time for vacations, car repair, or holiday spending — this system is designed to handle those irregular, big expenses.
 
 If you want more fancy marketing jargon and colorful images behind this, check out YNAB's [four rules](https://www.youneedabudget.com/the-four-rules/).
 I completely endorse them.

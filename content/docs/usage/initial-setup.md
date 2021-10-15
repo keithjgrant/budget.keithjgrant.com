@@ -1,5 +1,5 @@
 ---
-title: "Initial Setup"
+title: "Initial setup"
 weight: 1
 ---
 # Initial setup
@@ -34,6 +34,7 @@ You can always add (or remove) categories later.
 Be sure to create at least one category that's expected to accrue over multiple months.
 These are where you can set aside a little money each month to prepare for unexpected or seasonal expenses.
 (Check the _Accrues_ box beside these categories so they get excluded from your monthly expected vs. spent chart on the _Summary_ sheet.)
+I also suggest an extra accrual category called "Savings" or "Emergency fund" where you can set aside funds long term.
 
 List your bank accounts and credit cards in Columns E and F (up to 5 each).
 Don't worry about listing any investment accounts or anything like that;
@@ -53,5 +54,5 @@ You only need to enter your current bank account balances in cells C8–C17.
 ![Entering current account balances](/images/initial-account-balances.png)
 
 Notice the accounts total is your bank account balances minus your credit card balances.
-This is how much is available for your first budget allocation.
-Skip ahead to [Step 2](/docs/usage/monthly-rollover#2-allocate-budgets) of monthly rollover to finish setup.
+This is how much you have available for your first budget allocation.
+Skip ahead to [Step 4](/docs/usage/monthly-rollover#4-allocate-a-monthly-budget) of monthly rollover to finish setup.

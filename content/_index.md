@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: The Ultimate Budget Spreadsheet
 type: docs
 ---
 

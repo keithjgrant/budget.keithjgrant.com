@@ -1,6 +1,6 @@
 ---
 title: "How do I..."
-weight: 4
+weight: 5
 ---
 # FAQ
 

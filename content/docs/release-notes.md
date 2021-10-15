@@ -1,6 +1,6 @@
 ---
-title: "Release Notes"
-weight: 5
+title: "Release notes"
+weight: 6
 ---
 
 # Release notes
