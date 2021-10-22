@@ -79,6 +79,7 @@ This will impact your total funds available, but sometimes it's just easier than
 This may be a "Monthly budget template", but it honestly works for any length of time.
 In this case, I would recommend using a fresh spreadsheet each time you receive a paycheck.
 Allocate your paycheck to the budget categories you need, and work with that until the following paycheck arrives.
+Then perform a "monthly" rollover to a new sheet.
 
 Then make it your goal to save ahead until you can live off your previous month's income.
 Create an [accrual budget category](/docs/usage/initial-setup#2-customize-your-template) for savings and put a little bit into it each paycheck.

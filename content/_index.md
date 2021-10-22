@@ -9,6 +9,8 @@ To understand and stay on top of your spending, you don't need a fancy app.
 You don't need to give some website access to your bank statements.
 You just need to be aware of how much money you have, where it is promised, and how much is available do fun stuff.
 
+![Summary sheet showing amount spent and remaining in each budget category](/images/summary-sheet.png)
+
 That's just numbers, and spreadsheets are good at numbers.
 And it's free.
 

@@ -31,4 +31,4 @@ I completely endorse them.
 I do not dictate how you budget your money, nor which accounts you use to make purchases.
 Use your debit card or earn fly miles or just withdraw cash — use what works for you.
 
-<a href="/docs/usage/initial-setup" class="action-button">Get started</a>
+<a href="/docs/usage/initial-setup" class="action-button">How to setup</a>
