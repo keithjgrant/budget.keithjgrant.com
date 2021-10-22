@@ -31,7 +31,7 @@ So I've re-worked my spreadsheet again, and this time, I'm confident it can do j
 Every time you make a purchase, record it in the spreadsheet and assign it to one of your budget categories.
 I've kept this page slim and mobile-friendly, so it's easy to update from any smartphone.
 
-► [Expense entry](/docs/usages/expense-entry)
+► [Expense entry](/docs/usage/expense-entry)
 <--->
 ### Weekly
 
@@ -39,14 +39,14 @@ Periodically, update the spreadsheet with your current bank account and credit c
 Check off all expenses that have cleared and double-check you haven't missed anything.
 The spreadsheet will help you ensure what you spent and what you recorded balance out.
 
-► [Weekly balance](/docs/usages/weekly-balance)
+► [Weekly balance](/docs/usage/weekly-balance)
 <--->
 ### Monthly
 
 At the end of each month, make a fresh copy of the spreadsheet template.
 Copy over balances from the previous month, and allocate new budget amounts for the new month.
 
-► [Monthly rollover](/docs/usages/monthly-rollover)
+► [Monthly rollover](/docs/usage/monthly-rollover)
 {{< /columns >}}
 
 <a href="/docs/usage/initial-setup" class="action-button">Get started</a>

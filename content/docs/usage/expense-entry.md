@@ -5,7 +5,7 @@ weight: 2
 # Expense entry
 Every time you make a purchase, enter it on the _Expenses_ sheet.
 Enter an amount and a description of the purchase, then select which budget category it belongs to.
-If you leave the date box empty, it will automatically fill today's date after you input the amount.
+If you leave the date box empty, it will automatically fill today's date when you input the amount.
 
 ![Entering a purchase on the expenses sheet](/images/entering-expenses.png)
 
