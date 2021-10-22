@@ -12,6 +12,8 @@ You just need to be aware of how much money you have, where it is promised, and 
 That's just numbers, and spreadsheets are good at numbers.
 And it's free.
 
+<a href="https://docs.google.com/spreadsheets/d/1n6RkePuZ8XAUJhlw7xhkplwAtr8paBcyH7ToJ11-DY0/edit?usp=sharing" class="action-button" target="_blank">Open Spreadsheet Template</a>
+
 ## Why am I offering this?
 
 Because I already built it for myself, and there's no harm in letting you make a copy you can use. :)
