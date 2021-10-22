@@ -1,6 +1,6 @@
 ---
 title: "Release notes"
-weight: 6
+weight: 7
 ---
 
 # Release notes

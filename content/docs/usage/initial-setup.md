@@ -10,7 +10,7 @@ Then you can use that template to create a fresh monthly spreadsheet for your fi
 
 ## 1. Create your personal template
 
-<a href="https://docs.google.com/spreadsheets/d/1n6RkePuZ8XAUJhlw7xhkplwAtr8paBcyH7ToJ11-DY0/" class="action-button" target="_blank">Open Master Template</a>
+<a href="https://docs.google.com/spreadsheets/d/1n6RkePuZ8XAUJhlw7xhkplwAtr8paBcyH7ToJ11-DY0/edit?usp=sharing" class="action-button" target="_blank">Open Master Template</a>
 
 On the master template, select File > Make a copy.
 Title your copy "Monthly Budget Template" (or similar).
